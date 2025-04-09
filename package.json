@@ -1,0 +1,16 @@
+{
+  "name": "efrei-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "efrei-tests": "file:",
+    "jest": "^29.7.0"
+  }
+}
